@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentProviderLesson</string>
+
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+</resources>
